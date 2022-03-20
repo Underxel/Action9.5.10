@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65bab2dea172eeb4784d921bb341662f, type: 3}
+  m_Name: '[Weapon Item] 12'
+  m_EditorClassIdentifier: 
+  Id: weapon_12
+  Name: "\u041A\u0432\u0430\u0437\u0430\u0440"
+  Price: 150
+  Sprite: {fileID: 21300000, guid: 1a67730c671c84a4597027a87c57a972, type: 3}
+  Prefab: {fileID: 5336366330884187405, guid: ab50f36ad52ada54f8bd792293689bbe, type: 3}
